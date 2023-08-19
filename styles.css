@@ -1,2 +1,9 @@
 
 /* Your CSS Code here. */
+
+table{
+	width: 100%; height: 100%
+}
+th,td,tr{
+    border: 1px solid black;
+}
